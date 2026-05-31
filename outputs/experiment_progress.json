@@ -1,0 +1,9 @@
+{
+  "data_dir": "D:\\Semester6\\NLP\\Prak\\UAS\\UAS-Praktikum-Pemrosesan-Bahasa-Alami\\Data",
+  "processed_files": 535,
+  "total_to_process": 550,
+  "last_processed": "2348_audio01.wav",
+  "successful": 464,
+  "stt_failed": 71,
+  "tts_failed": 0
+}

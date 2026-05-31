@@ -152,6 +152,7 @@ SudachiPy==0.6.10
 sympy==1.14.0
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
+tf-keras==2.19.0
 thinc==8.2.5
 threadpoolctl==3.6.0
 tokenizers==0.21.1

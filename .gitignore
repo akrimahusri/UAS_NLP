@@ -1,0 +1,25 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local editor / OS files
+.DS_Store
+Thumbs.db
+
+# Python virtual env and build artifacts
+build/
+dist/
+*.egg-info/
+
+# Local runtime files
+app/chat_history.json
+
+# Large or regenerable generated audio outputs
+outputs/tts/
